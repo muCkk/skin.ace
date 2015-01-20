@@ -1,5 +1,3 @@
-	<!-- Ace -->
-
-	<window id="502">
+<window id="502">
 	<include>MusicWindow</include>
-	</window>
+</window>
