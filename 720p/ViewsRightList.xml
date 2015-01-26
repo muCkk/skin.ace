@@ -197,7 +197,7 @@
 							<texture diffuse="shadow_mask_v.png">line.png</texture>
 						</control>
 						<control type="label">
-							<posx>645</posx>
+							<posx>105</posx>
 							<posy>1</posy>
 							<width>540</width>
 							<height>30</height>
@@ -225,7 +225,7 @@
 							<texture diffuse="shadow_mask_v.png">settings_button_focus.png</texture>
 						</control>
 						<control type="label">
-							<posx>645</posx>
+							<posx>105</posx>
 							<posy>2</posy>
 							<width>540</width>
 							<height>30</height>
@@ -253,7 +253,7 @@
 							<texture diffuse="shadow_mask_v.png">settings_button_focus.png</texture>
 						</control>
 						<control type="label">
-							<posx>645</posx>
+							<posx>105</posx>
 							<posy>2</posy>
 							<width>540</width>
 							<height>30</height>
@@ -264,7 +264,7 @@
 							<label>$INFO[ListItem.Label]</label>
 						</control>
 						<control type="label">
-							<posx>645</posx>
+							<posx>105</posx>
 							<posy>29</posy>
 							<width>540</width>
 							<height>16</height>
