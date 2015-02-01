@@ -1642,8 +1642,8 @@
 		<value condition="Control.HasFocus(5200)">FFFFFAF0</value>
 	</variable>
 	<variable name="value_label1">
-		<value condition="Control.HasFocus(510) | Control.HasFocus(5100)">$LOCALIZE[31200]</value>
-		<value condition="!Skin.HasSetting(submode) + [Control.HasFocus(9000) | Control.HasFocus(5200)]">$LOCALIZE[31201]</value>
+		<value condition="Control.HasFocus(510) | Control.HasFocus(5100)">$LOCALIZE[31200]</value> <!-- menu -->
+		<value condition="!Skin.HasSetting(submode) + [Control.HasFocus(9000) | Control.HasFocus(5200)]">$LOCALIZE[31201]</value> <!-- submenu -->
 	</variable>
 	<variable name="value_arrow2">
 		<value condition="Control.IsVisible(603) + !Control.HasFocus(510)">arrow_right.png</value>
@@ -1651,15 +1651,17 @@
 		<value condition="Control.HasFocus(5100)">arrow_ok.png</value>
 		<value condition="Control.HasFocus(4200)">arrow_right.png</value>
 		<value condition="Control.HasFocus(9000) + [Control.IsVisible(601) | Control.IsVisible(602) | Control.IsVisible(603) | Container(9000).HasFocus(65) + !Skin.HasSetting(submode)]">arrow_right.png</value>
+		<value condition="Skin.HasSetting(submode) | Window.IsVisible(5099)">arrow_right.png</value>
 	</variable>
 	<variable name="value_label2">
 		<value condition="Control.IsVisible(603) + !Control.HasFocus(510)">$LOCALIZE[31585]</value>
 		<value condition="Control.HasFocus(510)">$LOCALIZE[31316]</value>
 		<value condition="Control.HasFocus(5100)">$LOCALIZE[31241]</value>
-		<value condition="Control.HasFocus(4200)">$LOCALIZE[31322]</value>
+		<value condition="Control.HasFocus(4200)">$LOCALIZE[31322]</value> <!-- panel -->
 		<value condition="Control.HasFocus(9000) + Control.IsVisible(601) + !Container(9000).HasFocus(65)">$LOCALIZE[31585]</value>
 		<value condition="Control.HasFocus(9000) + Control.IsVisible(602)">$LOCALIZE[31322]</value>
 		<value condition="Control.HasFocus(9000) + Container(9000).HasFocus(65) + !Skin.HasSetting(submode)">$LOCALIZE[31244]</value>
+		<value condition="Skin.HasSetting(submode) | Window.IsVisible(5099)">$LOCALIZE[10000]</value>
 	</variable>
 
 	<variable name="value_mfbg">
