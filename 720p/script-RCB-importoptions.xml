@@ -129,7 +129,7 @@
 						<visible>[Control.HasFocus(5211) | Control.HasFocus(5212)]</visible>
 					</control>
 					<control type="label">
-						<posx>740</posx>
+						<posx>80</posx>
 						<posy>4</posy>
 						<width>330</width>
 						<height>20</height>
@@ -141,7 +141,7 @@
 						<visible>![Control.HasFocus(5211) | Control.HasFocus(5212)]</visible>
 					</control>
 					<control type="label">
-						<posx>740</posx>
+						<posx>80</posx>
 						<posy>4</posy>
 						<width>330</width>
 						<height>20</height>
@@ -239,7 +239,7 @@
 					<visible>[Control.HasFocus(5222) | Control.HasFocus(5223)]</visible>
 				</control>
 				<control type="label">
-					<posx>740</posx>
+					<posx>410</posx>
 					<posy>4</posy>
 					<width>330</width>
 					<height>20</height>
@@ -251,7 +251,7 @@
 					<visible>![Control.HasFocus(5222) | Control.HasFocus(5223)]</visible>
 				</control>
 				<control type="label">
-					<posx>740</posx>
+					<posx>410</posx>
 					<posy>4</posy>
 					<width>330</width>
 					<height>20</height>
@@ -370,7 +370,7 @@
 						<animation reversible="false" effect="fade" end="50" time="0" condition="!Skin.HasSetting(rcb_overwriteImportOptions)">Conditional</animation>
 					</control>
 					<control type="label">
-						<posx>740</posx>
+						<posx>80</posx>
 						<posy>4</posy>
 						<width>330</width>
 						<height>20</height>
@@ -383,7 +383,7 @@
 						<animation reversible="false" effect="fade" end="50" time="0" condition="!Skin.HasSetting(rcb_overwriteImportOptions)">Conditional</animation>
 					</control>
 					<control type="label">
-						<posx>740</posx>
+						<posx>80</posx>
 						<posy>4</posy>
 						<width>330</width>
 						<height>20</height>
@@ -483,7 +483,7 @@
 						<animation reversible="false" effect="fade" end="50" time="0" condition="!Skin.HasSetting(rcb_overwriteImportOptions)">Conditional</animation>
 					</control>
 					<control type="label">
-						<posx>740</posx>
+						<posx>80</posx>
 						<posy>4</posy>
 						<width>330</width>
 						<height>20</height>
@@ -496,7 +496,7 @@
 						<animation reversible="false" effect="fade" end="50" time="0" condition="!Skin.HasSetting(rcb_overwriteImportOptions)">Conditional</animation>
 					</control>
 					<control type="label">
-						<posx>740</posx>
+						<posx>80</posx>
 						<posy>4</posy>
 						<width>330</width>
 						<height>20</height>
@@ -596,7 +596,7 @@
 						<animation reversible="false" effect="fade" end="50" time="0" condition="!Skin.HasSetting(rcb_overwriteImportOptions)">Conditional</animation>
 					</control>
 					<control type="label">
-						<posx>740</posx>
+						<posx>80</posx>
 						<posy>4</posy>
 						<width>330</width>
 						<height>20</height>
@@ -609,7 +609,7 @@
 						<animation reversible="false" effect="fade" end="50" time="0" condition="!Skin.HasSetting(rcb_overwriteImportOptions)">Conditional</animation>
 					</control>
 					<control type="label">
-						<posx>740</posx>
+						<posx>80</posx>
 						<posy>4</posy>
 						<width>330</width>
 						<height>20</height>
