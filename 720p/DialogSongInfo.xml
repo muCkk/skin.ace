@@ -511,7 +511,7 @@
 							<texture>separator_v.png</texture>
 						</control>
 						<control type="label">
-							<posx>91</posx>
+							<posx>10</posx>
 							<posy>0</posy>
 							<height>25</height>
 							<width>162</width>
@@ -557,7 +557,7 @@
 							<texture>separator_v.png</texture>
 						</control>
 						<control type="label">
-							<posx>91</posx>
+							<posx>10</posx>
 							<posy>0</posy>
 							<height>25</height>
 							<width>162</width>

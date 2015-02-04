@@ -179,7 +179,7 @@
 				<scrolltime>200</scrolltime>
 				<itemlayout height="20">
 					<control type="label">
-						<posx>170</posx>
+						<posx>-30</posx>
 						<posy>0</posy>
 						<width>200</width>
 						<height>20</height>
@@ -215,7 +215,7 @@
 						<visible>Control.HasFocus(49)</visible>
 					</control>
 					<control type="label">
-						<posx>170</posx>
+						<posx>-30</posx>
 						<posy>0</posy>
 						<width>200</width>
 						<height>20</height>
@@ -683,7 +683,7 @@
 							<texture>separator_v.png</texture>
 						</control>
 						<control type="label">
-							<posx>91</posx>
+							<posx>10</posx>
 							<posy>1</posy>
 							<height>25</height>
 							<width>162</width>
@@ -711,7 +711,7 @@
 							<texture>separator_v.png</texture>
 						</control>
 						<control type="label">
-							<posx>91</posx>
+							<posx>10</posx>
 							<posy>1</posy>
 							<height>25</height>
 							<width>162</width>
