@@ -41,6 +41,8 @@
 	<include file="IncludesMenuH.xml"/>
 	<include file="IncludesMenuV.xml"/>
 	<include file="IncludesVIPMenu.xml"/>
+	<include file="IncludesPVR.xml"/>
+	<include file="ViewsPVRGuide.xml"/>
 	<include file="IncludesMusic.xml"/>
 	<include file="IncludesWeather.xml"/>
 	<include file="IncludesLyrics.xml"/>

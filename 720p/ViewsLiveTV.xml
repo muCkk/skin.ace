@@ -51,19 +51,19 @@
 			<texture>separator_v.png</texture>
 		</control>
 		<control type="label">
-			<!-- Titulo da esquerda -->
+			<!-- Left Title Channels -->
 			<include>SettingsSectionTitle</include>
 			<label>31333</label>
 			<visible>!Control.IsVisible(15)</visible>
 		</control>
 		<control type="label">
-			<!-- Titulo da esquerda -->
+			<!-- Left Title Channel -->
 			<include>SettingsSectionTitle</include>
 			<label>31763</label>
 			<visible>Control.IsVisible(15)</visible>
 		</control>
 		<control type="label">
-			<!-- Titulo da direita -->
+			<!-- Title Right -->
 			<posx>275</posx>
 			<include>SettingsContentTitle</include>
 			<label>$INFO[Control.GetLabel(29)] $INFO[Control.GetLabel(30)]</label>
@@ -164,9 +164,9 @@
 			<animation effect="slide" start="0,0" end="-320,0" time="300" easing="out" tween="cubic" condition="Player.HasVideo + System.IdleTime(8) | Control.HasFocus(9920)">Conditional</animation>
 			<visible>Control.IsVisible(11)</visible>
 			<include>BackMenuV</include>
-			<!-- Fundo Menu -->
+			<!-- Background Menu -->
 			<control type="label">
-				<!-- Titulo da esquerda -->
+				<!-- Left Title -->
 				<posy>10</posy>
 				<include>SettingsSectionTitle</include>
 				<label>$INFO[Control.GetLabel(29)]</label>
