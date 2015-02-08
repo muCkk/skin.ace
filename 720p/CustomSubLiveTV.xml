@@ -20,13 +20,13 @@
 				</control>
 				<include condition="SubString(skin.string(menu),horizontal) + !Skin.HasSetting(custommode)">SubmenuBar</include>
 				<control type="button" id="9101">
-					<!-- Botao vazio -->
+					<!-- Button empty-->
 					<include condition="SubString(skin.string(menu),vertical)">emptybutton_v</include>
 					<include condition="SubString(skin.string(menu),horizontal)">emptybutton_h</include>
 					<visible>StringCompare(Container(9100).numitems,0) + !Skin.HasSetting(custommode)</visible>
 				</control>
 				<include condition="SubString(skin.string(menu),vertical) | Skin.HasSetting(custommode)">SubmenuGoTo</include>
-				<!-- Para menu -->
+				<!-- For menu -->
 				<control type="list" id="9100">
 					<include condition="SubString(skin.string(menu),vertical) | Skin.HasSetting(custommode)">SubmenuVList</include>
 					<include condition="SubString(skin.string(menu),horizontal) + !Skin.HasSetting(custommode)">SubmenuHList</include>
@@ -302,7 +302,7 @@
 							<visible>[StringCompare(skin.string(subaddon12.property),livetv) + SubString(skin.string(subaddon12.submenu),on)]</visible>
 						</item>
 						<item>
-							<!-- Canais de TV -->
+							<!-- TV Channels -->
 							<label fallback="19023">$INFO[skin.string(livetvchannels.label)]</label>
 							<icon fallback="-">$INFO[skin.string(livetvchannels.bg)]</icon>
 							<property name="condition">$INFO[skin.string(livetvchannels.submenu),on)]</property>
@@ -310,7 +310,7 @@
 							<property name="type">default</property>
 							<property name="name">livetvchannels</property>
 							<onclick condition="!Skin.HasSetting(custommode)">Close</onclick>
-							<onclick condition="!Skin.HasSetting(custommode)">ActivateWindowAndFocus(PVR, 32,0, 11,0)</onclick>
+							<onclick condition="!Skin.HasSetting(custommode)">ActivateWindow(TVChannels)</onclick>
 							<onclick condition="Skin.HasSetting(custommode)">SetFocus(5120)</onclick>
 							<visible>[SubString(skin.string(livetvchannels.submenu),on) | Skin.HasSetting(custommode)]</visible>
 						</item>
@@ -323,12 +323,12 @@
 							<property name="type">default</property>
 							<property name="name">livetvepg</property>
 							<onclick condition="!Skin.HasSetting(custommode)">Close</onclick>
-							<onclick condition="!Skin.HasSetting(custommode)">ActivateWindowAndFocus(PVR, 31,0, 10,0)</onclick>
+							<onclick condition="!Skin.HasSetting(custommode)">ActivateWindow(TVGuide)</onclick>
 							<onclick condition="Skin.HasSetting(custommode)">SetFocus(5120)</onclick>
 							<visible>[SubString(skin.string(livetvepg.submenu),on) | Skin.HasSetting(custommode)]</visible>
 						</item>
 						<item>
-							<!-- Estacoes de Radio -->
+							<!-- Radio Channels -->
 							<label fallback="19024">$INFO[skin.string(livetvradiostations.label)]</label>
 							<icon fallback="-">$INFO[skin.string(livetvradiostations.bg)]</icon>
 							<property name="condition">$INFO[skin.string(livetvradiostations.submenu),on)]</property>
@@ -336,12 +336,12 @@
 							<property name="type">default</property>
 							<property name="name">livetvradiostations</property>
 							<onclick condition="!Skin.HasSetting(custommode)">Close</onclick>
-							<onclick condition="!Skin.HasSetting(custommode)">ActivateWindowAndFocus(PVR, 33,0, 12,0)</onclick>
+							<onclick condition="!Skin.HasSetting(custommode)">ActivateWindow(RadioChannels)</onclick>
 							<onclick condition="Skin.HasSetting(custommode)">SetFocus(5120)</onclick>
 							<visible>[SubString(skin.string(livetvradiostations.submenu),on) | Skin.HasSetting(custommode)]</visible>
 						</item>
 						<item>
-							<!-- Gravacoes -->
+							<!-- Recordings -->
 							<label fallback="19163">$INFO[skin.string(livetvrecords.label)]</label>
 							<icon fallback="-">$INFO[skin.string(livetvrecords.bg)]</icon>
 							<property name="condition">$INFO[skin.string(livetvrecords.submenu),on)]</property>
@@ -349,12 +349,12 @@
 							<property name="type">default</property>
 							<property name="name">livetvrecords</property>
 							<onclick condition="!Skin.HasSetting(custommode)">Close</onclick>
-							<onclick condition="!Skin.HasSetting(custommode)">ActivateWindowAndFocus(PVR, 34,0, 13,0)</onclick>
+							<onclick condition="!Skin.HasSetting(custommode)">ActivateWindow(TVRecordings)</onclick>
 							<onclick condition="Skin.HasSetting(custommode)">SetFocus(5120)</onclick>
 							<visible>[SubString(skin.string(livetvrecords.submenu),on) | Skin.HasSetting(custommode)]</visible>
 						</item>
 						<item>
-							<!-- Agendamento -->
+							<!-- Timer -->
 							<label fallback="19040">$INFO[skin.string(livetvtimers.label)]</label>
 							<icon fallback="-">$INFO[skin.string(livetvtimers.bg)]</icon>
 							<property name="condition">$INFO[skin.string(livetvtimers.submenu),on)]</property>
@@ -362,12 +362,12 @@
 							<property name="type">default</property>
 							<property name="name">livetvtimers</property>
 							<onclick condition="!Skin.HasSetting(custommode)">Close</onclick>
-							<onclick condition="!Skin.HasSetting(custommode)">ActivateWindowAndFocus(PVR, 35,0, 14,0)</onclick>
+							<onclick condition="!Skin.HasSetting(custommode)">ActivateWindow(TVTimers)</onclick>
 							<onclick condition="Skin.HasSetting(custommode)">SetFocus(5120)</onclick>
 							<visible>[SubString(skin.string(livetvtimers.submenu),on) | Skin.HasSetting(custommode)]</visible>
 						</item>
 						<item>
-							<!-- Ajustes -->
+							<!-- Settings -->
 							<label fallback="31011">$INFO[skin.string(livetvsettings.label)]</label>
 							<icon fallback="-">$INFO[skin.string(livetvsettings.bg)]</icon>
 							<property name="condition">$INFO[skin.string(livetvsettings.submenu),on)]</property>
