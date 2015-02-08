@@ -320,7 +320,7 @@
 				<visible>false</visible>
 			</control>
 
-			<!-- ** Required ** Do not change <id> or <type> -->
+			<!-- ** Required ** Do not change <id> or <type> smooth scrolling list for lyrics -->
 			<control type="list" id="110">
 				<posx>100</posx>
 				<posy>70</posy>
@@ -335,7 +335,7 @@
 				<scrolltime>200</scrolltime>
 				<itemlayout height="35">
 					<control type="label">
-						<posx>540</posx>
+						<posx>0</posx>
 						<posy>3</posy>
 						<width>1080</width>
 						<height>22</height>
@@ -357,9 +357,9 @@
 						<visible>Control.HasFocus(110)</visible>
 					</control>
 					<control type="label">
-						<posx>540</posx>
+						<posx>0</posx>
 						<posy>3</posy>
-						<width>1180</width>
+						<width>1080</width>
 						<height>22</height>
 						<info>ListItem.Label</info>
 						<font>Font_21</font>
@@ -372,7 +372,7 @@
 			<control type="spincontrol" id="111">
 				<visible>false</visible>
 			</control>
-			<!-- ** Required ** Do not change <id> or <type> -->
+			<!-- ** Required ** Do not change <id> or <type> (Song Chooser if it gets it wrong) -->
 			<control type="list" id="120">
 				<posx>100</posx>
 				<posy>70</posy>
@@ -387,7 +387,7 @@
 				<scrolltime>200</scrolltime>
 				<itemlayout height="35">
 					<control type="label">
-						<posx>540</posx>
+						<posx>0</posx>
 						<posy>3</posy>
 						<width>1080</width>
 						<height>22</height>
@@ -409,7 +409,7 @@
 						<visible>Control.HasFocus(120)</visible>
 					</control>
 					<control type="label">
-						<posx>540</posx>
+						<posx>0</posx>
 						<posy>3</posy>
 						<width>1080</width>
 						<height>22</height>
@@ -518,7 +518,7 @@
 				<scrolltime>200</scrolltime>
 				<itemlayout height="35">
 					<control type="label">
-						<posx>540</posx>
+						<posx>0</posx>
 						<posy>3</posy>
 						<width>1080</width>
 						<height>22</height>
@@ -540,9 +540,9 @@
 						<visible>Control.HasFocus(110)</visible>
 					</control>
 					<control type="label">
-						<posx>540</posx>
+						<posx>0</posx>
 						<posy>3</posy>
-						<width>1180</width>
+						<width>1080</width>
 						<height>22</height>
 						<info>ListItem.Label</info>
 						<font>Font_30</font>
@@ -569,7 +569,7 @@
 				<scrolltime>200</scrolltime>
 				<itemlayout height="35">
 					<control type="label">
-						<posx>540</posx>
+						<posx>0</posx>
 						<posy>3</posy>
 						<width>1080</width>
 						<height>22</height>
@@ -591,7 +591,7 @@
 						<visible>Control.HasFocus(120)</visible>
 					</control>
 					<control type="label">
-						<posx>540</posx>
+						<posx>0</posx>
 						<posy>3</posy>
 						<width>1080</width>
 						<height>22</height>
