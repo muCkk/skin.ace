@@ -24,7 +24,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu31.1.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu31.1.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu31.1.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu31.1.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu31.1.Title))</visible>
 					</item>
 					<item>
@@ -40,7 +40,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu31.2.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu31.2.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu31.2.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu31.2.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu31.2.Title))</visible>
 					</item>
 					<item>
@@ -56,7 +56,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu31.3.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu31.3.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu31.3.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu31.3.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu31.3.Title))</visible>
 					</item>
 					<item>
@@ -72,7 +72,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu31.4.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu31.4.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu31.4.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu31.4.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu31.4.Title))</visible>
 					</item>
 					<item>
@@ -88,7 +88,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu31.5.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu31.5.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu31.5.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu31.5.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu31.5.Title))</visible>
 					</item>
 					<item>
@@ -104,7 +104,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu31.6.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu31.6.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu31.6.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu31.6.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu31.6.Title))</visible>
 					</item>
 					<item>
@@ -120,7 +120,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu31.7.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu31.7.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu31.7.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu31.7.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu31.7.Title))</visible>
 					</item>
 					<item>
@@ -136,7 +136,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu31.8.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu31.8.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu31.8.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu31.8.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu31.8.Title))</visible>
 					</item>
 					<item>
@@ -152,7 +152,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu31.9.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu31.9.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu31.9.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu31.9.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu31.9.Title))</visible>
 					</item>
 					<item>
@@ -168,7 +168,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu31.10.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu31.10.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu31.10.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu31.10.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu31.10.Title))</visible>
 					</item>
 					<item>
@@ -184,7 +184,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu31.11.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu31.11.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu31.11.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu31.11.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu31.11.Title))</visible>
 					</item>
 					<item>
@@ -200,7 +200,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu31.12.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu31.12.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu31.12.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu31.12.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu31.12.Title))</visible>
 					</item>
 					<item>
@@ -374,7 +374,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu31.1.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu31.1.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu31.1.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu31.1.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu31.1.Title))</visible>
 					</item>
 					<item>
@@ -390,7 +390,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu31.2.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu31.2.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu31.2.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu31.2.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu31.2.Title))</visible>
 					</item>
 					<item>
@@ -406,7 +406,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu31.3.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu31.3.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu31.3.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu31.3.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu31.3.Title))</visible>
 					</item>
 					<item>
@@ -422,7 +422,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu31.4.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu31.4.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu31.4.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu31.4.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu31.4.Title))</visible>
 					</item>
 					<item>
@@ -438,7 +438,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu31.5.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu31.5.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu31.5.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu31.5.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu31.5.Title))</visible>
 					</item>
 					<item>
@@ -454,7 +454,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu31.6.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu31.6.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu31.6.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu31.6.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu31.6.Title))</visible>
 					</item>
 					<item>
@@ -470,7 +470,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu31.7.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu31.7.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu31.7.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu31.7.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu31.7.Title))</visible>
 					</item>
 					<item>
@@ -486,7 +486,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu31.8.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu31.8.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu31.8.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu31.8.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu31.8.Title))</visible>
 					</item>
 					<item>
@@ -502,7 +502,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu31.9.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu31.9.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu31.9.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu31.9.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu31.9.Title))</visible>
 					</item>
 					<item>
@@ -518,7 +518,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu31.10.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu31.10.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu31.10.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu31.10.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu31.10.Title))</visible>
 					</item>
 					<item>
@@ -534,7 +534,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu31.11.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu31.11.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu31.11.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu31.11.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu31.11.Title))</visible>
 					</item>
 					<item>
@@ -550,7 +550,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu31.12.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu31.12.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu31.12.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu31.12.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu31.12.Title))</visible>
 					</item>
 					<item>
@@ -731,7 +731,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu32.1.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu32.1.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu32.1.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu32.1.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu32.1.Title))</visible>
 					</item>
 					<item>
@@ -747,7 +747,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu32.2.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu32.2.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu32.2.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu32.2.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu32.2.Title))</visible>
 					</item>
 					<item>
@@ -763,7 +763,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu32.3.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu32.3.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu32.3.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu32.3.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu32.3.Title))</visible>
 					</item>
 					<item>
@@ -779,7 +779,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu32.4.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu32.4.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu32.4.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu32.4.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu32.4.Title))</visible>
 					</item>
 					<item>
@@ -795,7 +795,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu32.5.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu32.5.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu32.5.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu32.5.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu32.5.Title))</visible>
 					</item>
 					<item>
@@ -811,7 +811,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu32.6.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu32.6.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu32.6.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu32.6.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu32.6.Title))</visible>
 					</item>
 					<item>
@@ -827,7 +827,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu32.7.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu32.7.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu32.7.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu32.7.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu32.7.Title))</visible>
 					</item>
 					<item>
@@ -843,7 +843,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu32.8.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu32.8.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu32.8.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu32.8.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu32.8.Title))</visible>
 					</item>
 					<item>
@@ -859,7 +859,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu32.9.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu32.9.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu32.9.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu32.9.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu32.9.Title))</visible>
 					</item>
 					<item>
@@ -875,7 +875,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu32.10.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu32.10.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu32.10.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu32.10.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu32.10.Title))</visible>
 					</item>
 					<item>
@@ -891,7 +891,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu32.11.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu32.11.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu32.11.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu32.11.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu32.11.Title))</visible>
 					</item>
 					<item>
@@ -907,7 +907,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu32.12.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu32.12.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu32.12.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu32.12.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu32.12.Title))</visible>
 					</item>
 					<item>
@@ -1081,7 +1081,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu32.1.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu32.1.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu32.1.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu32.1.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu32.1.Title))</visible>
 					</item>
 					<item>
@@ -1097,7 +1097,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu32.2.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu32.2.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu32.2.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu32.2.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu32.2.Title))</visible>
 					</item>
 					<item>
@@ -1113,7 +1113,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu32.3.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu32.3.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu32.3.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu32.3.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu32.3.Title))</visible>
 					</item>
 					<item>
@@ -1129,7 +1129,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu32.4.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu32.4.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu32.4.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu32.4.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu32.4.Title))</visible>
 					</item>
 					<item>
@@ -1145,7 +1145,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu32.5.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu32.5.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu32.5.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu32.5.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu32.5.Title))</visible>
 					</item>
 					<item>
@@ -1161,7 +1161,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu32.6.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu32.6.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu32.6.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu32.6.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu32.6.Title))</visible>
 					</item>
 					<item>
@@ -1177,7 +1177,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu32.7.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu32.7.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu32.7.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu32.7.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu32.7.Title))</visible>
 					</item>
 					<item>
@@ -1193,7 +1193,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu32.8.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu32.8.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu32.8.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu32.8.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu32.8.Title))</visible>
 					</item>
 					<item>
@@ -1209,7 +1209,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu32.9.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu32.9.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu32.9.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu32.9.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu32.9.Title))</visible>
 					</item>
 					<item>
@@ -1225,7 +1225,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu32.10.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu32.10.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu32.10.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu32.10.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu32.10.Title))</visible>
 					</item>
 					<item>
@@ -1241,7 +1241,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu32.11.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu32.11.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu32.11.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu32.11.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu32.11.Title))</visible>
 					</item>
 					<item>
@@ -1257,7 +1257,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu32.12.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu32.12.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu32.12.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu32.12.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu32.12.Title))</visible>
 					</item>
 					<item>
@@ -1438,7 +1438,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu33.1.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu33.1.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu33.1.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu33.1.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu33.1.Title))</visible>
 					</item>
 					<item>
@@ -1454,7 +1454,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu33.2.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu33.2.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu33.2.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu33.2.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu33.2.Title))</visible>
 					</item>
 					<item>
@@ -1470,7 +1470,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu33.3.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu33.3.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu33.3.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu33.3.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu33.3.Title))</visible>
 					</item>
 					<item>
@@ -1486,7 +1486,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu33.4.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu33.4.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu33.4.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu33.4.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu33.4.Title))</visible>
 					</item>
 					<item>
@@ -1502,7 +1502,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu33.5.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu33.5.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu33.5.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu33.5.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu33.5.Title))</visible>
 					</item>
 					<item>
@@ -1518,7 +1518,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu33.6.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu33.6.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu33.6.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu33.6.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu33.6.Title))</visible>
 					</item>
 					<item>
@@ -1534,7 +1534,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu33.7.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu33.7.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu33.7.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu33.7.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu33.7.Title))</visible>
 					</item>
 					<item>
@@ -1550,7 +1550,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu33.8.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu33.8.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu33.8.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu33.8.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu33.8.Title))</visible>
 					</item>
 					<item>
@@ -1566,7 +1566,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu33.9.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu33.9.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu33.9.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu33.9.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu33.9.Title))</visible>
 					</item>
 					<item>
@@ -1582,7 +1582,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu33.10.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu33.10.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu33.10.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu33.10.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu33.10.Title))</visible>
 					</item>
 					<item>
@@ -1598,7 +1598,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu33.11.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu33.11.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu33.11.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu33.11.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu33.11.Title))</visible>
 					</item>
 					<item>
@@ -1614,7 +1614,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu33.12.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu33.12.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu33.12.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu33.12.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu33.12.Title))</visible>
 					</item>
 					<item>
@@ -1788,7 +1788,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu33.1.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu33.1.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu33.1.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu33.1.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu33.1.Title))</visible>
 					</item>
 					<item>
@@ -1804,7 +1804,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu33.2.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu33.2.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu33.2.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu33.2.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu33.2.Title))</visible>
 					</item>
 					<item>
@@ -1820,7 +1820,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu33.3.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu33.3.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu33.3.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu33.3.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu33.3.Title))</visible>
 					</item>
 					<item>
@@ -1836,7 +1836,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu33.4.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu33.4.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu33.4.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu33.4.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu33.4.Title))</visible>
 					</item>
 					<item>
@@ -1852,7 +1852,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu33.5.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu33.5.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu33.5.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu33.5.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu33.5.Title))</visible>
 					</item>
 					<item>
@@ -1868,7 +1868,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu33.6.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu33.6.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu33.6.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu33.6.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu33.6.Title))</visible>
 					</item>
 					<item>
@@ -1884,7 +1884,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu33.7.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu33.7.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu33.7.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu33.7.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu33.7.Title))</visible>
 					</item>
 					<item>
@@ -1900,7 +1900,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu33.8.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu33.8.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu33.8.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu33.8.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu33.8.Title))</visible>
 					</item>
 					<item>
@@ -1916,7 +1916,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu33.9.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu33.9.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu33.9.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu33.9.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu33.9.Title))</visible>
 					</item>
 					<item>
@@ -1932,7 +1932,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu33.10.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu33.10.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu33.10.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu33.10.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu33.10.Title))</visible>
 					</item>
 					<item>
@@ -1948,7 +1948,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu33.11.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu33.11.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu33.11.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu33.11.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu33.11.Title))</visible>
 					</item>
 					<item>
@@ -1964,7 +1964,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu33.12.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu33.12.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu33.12.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu33.12.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu33.12.Title))</visible>
 					</item>
 					<item>
@@ -2145,7 +2145,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu34.1.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu34.1.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu34.1.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu34.1.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu34.1.Title))</visible>
 					</item>
 					<item>
@@ -2161,7 +2161,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu34.2.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu34.2.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu34.2.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu34.2.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu34.2.Title))</visible>
 					</item>
 					<item>
@@ -2177,7 +2177,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu34.3.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu34.3.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu34.3.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu34.3.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu34.3.Title))</visible>
 					</item>
 					<item>
@@ -2193,7 +2193,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu34.4.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu34.4.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu34.4.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu34.4.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu34.4.Title))</visible>
 					</item>
 					<item>
@@ -2209,7 +2209,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu34.5.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu34.5.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu34.5.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu34.5.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu34.5.Title))</visible>
 					</item>
 					<item>
@@ -2225,7 +2225,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu34.6.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu34.6.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu34.6.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu34.6.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu34.6.Title))</visible>
 					</item>
 					<item>
@@ -2241,7 +2241,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu34.7.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu34.7.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu34.7.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu34.7.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu34.7.Title))</visible>
 					</item>
 					<item>
@@ -2257,7 +2257,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu34.8.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu34.8.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu34.8.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu34.8.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu34.8.Title))</visible>
 					</item>
 					<item>
@@ -2273,7 +2273,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu34.9.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu34.9.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu34.9.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu34.9.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu34.9.Title))</visible>
 					</item>
 					<item>
@@ -2289,7 +2289,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu34.10.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu34.10.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu34.10.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu34.10.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu34.10.Title))</visible>
 					</item>
 					<item>
@@ -2305,7 +2305,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu34.11.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu34.11.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu34.11.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu34.11.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu34.11.Title))</visible>
 					</item>
 					<item>
@@ -2321,7 +2321,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu34.12.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu34.12.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu34.12.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu34.12.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu34.12.Title))</visible>
 					</item>
 					<item>
@@ -2495,7 +2495,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu34.1.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu34.1.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu34.1.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu34.1.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu34.1.Title))</visible>
 					</item>
 					<item>
@@ -2511,7 +2511,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu34.2.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu34.2.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu34.2.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu34.2.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu34.2.Title))</visible>
 					</item>
 					<item>
@@ -2527,7 +2527,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu34.3.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu34.3.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu34.3.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu34.3.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu34.3.Title))</visible>
 					</item>
 					<item>
@@ -2543,7 +2543,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu34.4.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu34.4.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu34.4.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu34.4.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu34.4.Title))</visible>
 					</item>
 					<item>
@@ -2559,7 +2559,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu34.5.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu34.5.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu34.5.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu34.5.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu34.5.Title))</visible>
 					</item>
 					<item>
@@ -2575,7 +2575,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu34.6.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu34.6.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu34.6.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu34.6.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu34.6.Title))</visible>
 					</item>
 					<item>
@@ -2591,7 +2591,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu34.7.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu34.7.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu34.7.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu34.7.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu34.7.Title))</visible>
 					</item>
 					<item>
@@ -2607,7 +2607,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu34.8.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu34.8.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu34.8.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu34.8.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu34.8.Title))</visible>
 					</item>
 					<item>
@@ -2623,7 +2623,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu34.9.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu34.9.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu34.9.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu34.9.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu34.9.Title))</visible>
 					</item>
 					<item>
@@ -2639,7 +2639,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu34.10.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu34.10.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu34.10.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu34.10.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu34.10.Title))</visible>
 					</item>
 					<item>
@@ -2655,7 +2655,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu34.11.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu34.11.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu34.11.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu34.11.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu34.11.Title))</visible>
 					</item>
 					<item>
@@ -2671,7 +2671,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu34.12.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu34.12.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu34.12.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu34.12.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu34.12.Title))</visible>
 					</item>
 					<item>
@@ -2852,7 +2852,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu35.1.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu35.1.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu35.1.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu35.1.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu35.1.Title))</visible>
 					</item>
 					<item>
@@ -2868,7 +2868,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu35.2.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu35.2.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu35.2.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu35.2.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu35.2.Title))</visible>
 					</item>
 					<item>
@@ -2884,7 +2884,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu35.3.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu35.3.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu35.3.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu35.3.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu35.3.Title))</visible>
 					</item>
 					<item>
@@ -2900,7 +2900,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu35.4.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu35.4.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu35.4.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu35.4.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu35.4.Title))</visible>
 					</item>
 					<item>
@@ -2916,7 +2916,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu35.5.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu35.5.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu35.5.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu35.5.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu35.5.Title))</visible>
 					</item>
 					<item>
@@ -2932,7 +2932,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu35.6.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu35.6.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu35.6.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu35.6.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu35.6.Title))</visible>
 					</item>
 					<item>
@@ -2948,7 +2948,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu35.7.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu35.7.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu35.7.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu35.7.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu35.7.Title))</visible>
 					</item>
 					<item>
@@ -2964,7 +2964,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu35.8.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu35.8.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu35.8.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu35.8.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu35.8.Title))</visible>
 					</item>
 					<item>
@@ -2980,7 +2980,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu35.9.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu35.9.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu35.9.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu35.9.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu35.9.Title))</visible>
 					</item>
 					<item>
@@ -2996,7 +2996,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu35.10.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu35.10.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu35.10.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu35.10.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu35.10.Title))</visible>
 					</item>
 					<item>
@@ -3012,7 +3012,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu35.11.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu35.11.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu35.11.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu35.11.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu35.11.Title))</visible>
 					</item>
 					<item>
@@ -3028,7 +3028,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistLastMovieMenu35.12.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistLastMovieMenu35.12.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistLastMovieMenu35.12.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistLastMovieMenu35.12.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistLastMovieMenu35.12.Title))</visible>
 					</item>
 					<item>
@@ -3202,7 +3202,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu35.1.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu35.1.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu35.1.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu35.1.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu35.1.Title))</visible>
 					</item>
 					<item>
@@ -3218,7 +3218,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu35.2.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu35.2.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu35.2.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu35.2.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu35.2.Title))</visible>
 					</item>
 					<item>
@@ -3234,7 +3234,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu35.3.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu35.3.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu35.3.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu35.3.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu35.3.Title))</visible>
 					</item>
 					<item>
@@ -3250,7 +3250,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu35.4.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu35.4.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu35.4.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu35.4.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu35.4.Title))</visible>
 					</item>
 					<item>
@@ -3266,7 +3266,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu35.5.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu35.5.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu35.5.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu35.5.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu35.5.Title))</visible>
 					</item>
 					<item>
@@ -3282,7 +3282,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu35.6.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu35.6.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu35.6.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu35.6.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu35.6.Title))</visible>
 					</item>
 					<item>
@@ -3298,7 +3298,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu35.7.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu35.7.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu35.7.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu35.7.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu35.7.Title))</visible>
 					</item>
 					<item>
@@ -3314,7 +3314,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu35.8.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu35.8.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu35.8.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu35.8.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu35.8.Title))</visible>
 					</item>
 					<item>
@@ -3330,7 +3330,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu35.9.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu35.9.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu35.9.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu35.9.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu35.9.Title))</visible>
 					</item>
 					<item>
@@ -3346,7 +3346,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu35.10.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu35.10.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu35.10.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu35.10.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu35.10.Title))</visible>
 					</item>
 					<item>
@@ -3362,7 +3362,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu35.11.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu35.11.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu35.11.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu35.11.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu35.11.Title))</visible>
 					</item>
 					<item>
@@ -3378,7 +3378,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(PlaylistRandomMovieMenu35.12.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(PlaylistRandomMovieMenu35.12.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu35.12.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(PlaylistRandomMovieMenu35.12.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(PlaylistRandomMovieMenu35.12.Title))</visible>
 					</item>
 					<item>

@@ -463,7 +463,7 @@
 			<colordiffuse>C3FFFFFF</colordiffuse>
 			<include>Animation_Fade</include>
 			<animation effect="fade" start="100" end="0" time="200" condition="Window.IsVisible(SliderDialog)">conditional</animation>
-			<visible>Window.IsVisible(101) | Window.IsVisible(103) | Window.IsVisible(106) | Window.IsVisible(109) | Window.IsVisible(111) | Window.IsVisible(114) | Window.IsVisible(121) | Window.IsVisible(126) | Window.IsVisible(128) | Window.IsVisible(129) | Window.IsVisible(130) | Window.IsVisible(132) | Window.IsVisible(134) | Window.IsVisible(136) | Window.IsVisible(137) | Window.IsVisible(623) | Window.IsVisible(2000) | Window.IsVisible(2008)</visible>
+			<visible>Window.IsVisible(101) | Window.IsVisible(103) | Window.IsVisible(106) | Window.IsVisible(109) | Window.IsVisible(111) | Window.IsVisible(114) | Window.IsVisible(121) | Window.IsVisible(126) | Window.IsVisible(128) | Window.IsVisible(129) | Window.IsVisible(130) | Window.IsVisible(132) | Window.IsVisible(134) | Window.IsVisible(136) | Window.IsVisible(137) | Window.IsVisible(1101) | Window.IsVisible(2000) | Window.IsVisible(2008)</visible>
 		</control>
 	</include>
 	<include name="TrailerWindow">

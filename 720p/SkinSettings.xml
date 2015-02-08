@@ -1128,7 +1128,7 @@
 					<!-- Tema meu tema -->
 					<label>31908</label>
 					<onclick>Skin.SetString(theme,mytheme)</onclick>
-					<onclick>ActivateWindow(624)</onclick>
+					<onclick>ActivateWindow(1102)</onclick>
 					<selected>SubString(skin.string(theme),mytheme)</selected>
 				</control>
 				<control type="button" id="1071">

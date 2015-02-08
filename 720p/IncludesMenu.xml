@@ -1114,7 +1114,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(RecentMovie.1.MPAA)]</property>	
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(RecentMovie.1.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(RecentMovie.1.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(RecentMovie.1.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(RecentMovie.1.Title))</visible>
 					</item>
 					<item>
@@ -1130,7 +1130,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(RecentMovie.2.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(RecentMovie.2.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(RecentMovie.2.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(RecentMovie.2.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(RecentMovie.2.Title))</visible>
 					</item>
 					<item>
@@ -1146,7 +1146,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(RecentMovie.3.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(RecentMovie.3.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(RecentMovie.3.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(RecentMovie.3.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(RecentMovie.3.Title))</visible>
 					</item>
 					<item>
@@ -1162,7 +1162,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(RecentMovie.4.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(RecentMovie.4.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(RecentMovie.4.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(RecentMovie.4.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(RecentMovie.4.Title))</visible>
 					</item>
 					<item>
@@ -1178,7 +1178,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(RecentMovie.5.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(RecentMovie.5.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(RecentMovie.5.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(RecentMovie.5.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(RecentMovie.5.Title))</visible>
 					</item>
 					<item>
@@ -1194,7 +1194,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(RecentMovie.6.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(RecentMovie.6.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(RecentMovie.6.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(RecentMovie.6.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(RecentMovie.6.Title))</visible>
 					</item>
 					<item>
@@ -1210,7 +1210,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(RecentMovie.7.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(RecentMovie.7.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(RecentMovie.7.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(RecentMovie.7.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(RecentMovie.7.Title))</visible>
 					</item>
 					<item>
@@ -1226,7 +1226,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(RecentMovie.8.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(RecentMovie.8.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(RecentMovie.8.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(RecentMovie.8.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(RecentMovie.8.Title))</visible>
 					</item>
 					<item>
@@ -1242,7 +1242,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(RecentMovie.9.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(RecentMovie.9.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(RecentMovie.9.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(RecentMovie.9.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(RecentMovie.9.Title))</visible>
 					</item>
 					<item>
@@ -1258,7 +1258,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(RecentMovie.10.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(RecentMovie.10.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(RecentMovie.10.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(RecentMovie.10.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(RecentMovie.10.Title))</visible>
 					</item>
 					<item>
@@ -1274,7 +1274,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(RecentMovie.11.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(RecentMovie.11.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(RecentMovie.11.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(RecentMovie.11.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(RecentMovie.11.Title))</visible>
 					</item>
 					<item>
@@ -1290,7 +1290,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(RecentMovie.12.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(RecentMovie.12.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(RecentMovie.12.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(RecentMovie.12.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(RecentMovie.12.Title))</visible>
 					</item>
 					<item>
@@ -1320,7 +1320,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(RandomMovie.1.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(RandomMovie.1.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(RandomMovie.1.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(RandomMovie.1.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(RandomMovie.1.Title))</visible>
 					</item>
 					<item>
@@ -1336,7 +1336,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(RandomMovie.2.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(RandomMovie.2.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(RandomMovie.2.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(RandomMovie.2.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(RandomMovie.2.Title))</visible>
 					</item>
 					<item>
@@ -1352,7 +1352,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(RandomMovie.3.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(RandomMovie.3.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(RandomMovie.3.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(RandomMovie.3.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(RandomMovie.3.Title))</visible>
 					</item>
 					<item>
@@ -1368,7 +1368,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(RandomMovie.4.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(RandomMovie.4.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(RandomMovie.4.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(RandomMovie.4.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(RandomMovie.4.Title))</visible>
 					</item>
 					<item>
@@ -1384,7 +1384,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(RandomMovie.5.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(RandomMovie.5.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(RandomMovie.5.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(RandomMovie.5.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(RandomMovie.5.Title))</visible>
 					</item>
 					<item>
@@ -1400,7 +1400,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(RandomMovie.6.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(RandomMovie.6.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(RandomMovie.6.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(RandomMovie.6.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(RandomMovie.6.Title))</visible>
 					</item>
 					<item>
@@ -1416,7 +1416,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(RandomMovie.7.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(RandomMovie.7.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(RandomMovie.7.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(RandomMovie.7.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(RandomMovie.7.Title))</visible>
 					</item>
 					<item>
@@ -1432,7 +1432,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(RandomMovie.8.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(RandomMovie.8.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(RandomMovie.8.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(RandomMovie.8.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(RandomMovie.8.Title))</visible>
 					</item>
 					<item>
@@ -1448,7 +1448,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(RandomMovie.9.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(RandomMovie.9.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(RandomMovie.9.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(RandomMovie.9.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(RandomMovie.9.Title))</visible>
 					</item>
 					<item>
@@ -1464,7 +1464,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(RandomMovie.10.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(RandomMovie.10.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(RandomMovie.10.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(RandomMovie.10.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(RandomMovie.10.Title))</visible>
 					</item>
 					<item>
@@ -1480,7 +1480,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(RandomMovie.11.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(RandomMovie.11.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(RandomMovie.11.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(RandomMovie.11.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(RandomMovie.11.Title))</visible>
 					</item>
 					<item>
@@ -1496,7 +1496,7 @@
 						<property name="Mpaa">$INFO[Window(0).Property(RandomMovie.12.MPAA)]</property>
 						<onclick>Skin.SetString(custom_id,$INFO[Window(0).Property(RandomMovie.12.DBID)])</onclick>
 						<onclick condition="!IsEmpty(Window(0).Property(RandomMovie.12.Trailer))">Skin.SetString(custom_trailer,$INFO[Window(0).Property(RandomMovie.12.Trailer)])</onclick>
-						<onclick>ActivateWindow(623)</onclick>
+						<onclick>ActivateWindow(1101)</onclick>
 						<visible>!IsEmpty(Window(0).Property(RandomMovie.12.Title))</visible>
 					</item>
 					<item>

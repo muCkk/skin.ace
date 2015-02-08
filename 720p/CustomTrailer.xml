@@ -1,4 +1,4 @@
-<window id="623" type="dialog">
+<window id="1101" type="dialog">
 	<defaultcontrol>9006</defaultcontrol>
 	<zorder>3</zorder>
 	<coordinates>
@@ -47,17 +47,17 @@
 			<itemgap>0</itemgap>
 			<control type="button" id="9006">
 				<include>DialogContext_Button</include>
-				<onleft>Dialog.Close(623)</onleft>
-				<onright>Dialog.Close(623)</onright>
-				<onclick>Dialog.Close(623)</onclick>
+				<onleft>Dialog.Close(1101)</onleft>
+				<onright>Dialog.Close(1101)</onright>
+				<onclick>Dialog.Close(1101)</onclick>
 				<onclick>RunScript(service.skin.widgets,movieid=$INFO[skin.string(custom_id)])</onclick>
 				<label>31946</label>
 			</control>
 			<control type="button" id="9007">
 				<include>DialogContext_Button</include>
-				<onleft>Dialog.Close(623)</onleft>
-				<onright>Dialog.Close(623)</onright>
-				<onclick>Dialog.Close(623)</onclick>
+				<onleft>Dialog.Close(1101)</onleft>
+				<onright>Dialog.Close(1101)</onright>
+				<onclick>Dialog.Close(1101)</onclick>
 				<onclick condition="!Skin.HasSetting(homefullscreentrailer)">SetFocus(9005)</onclick>
 				<onclick condition="!Skin.HasSetting(homefullscreentrailer)">PlayMedia($INFO[skin.string(custom_trailer)],1)</onclick>
 				<onclick condition="Skin.HasSetting(homefullscreentrailer)">PlayMedia($INFO[skin.string(custom_trailer)])</onclick>
@@ -65,9 +65,9 @@
 			</control>
 			<control type="button" id="9008">
 				<include>DialogContext_Button</include>
-				<onleft>Dialog.Close(623)</onleft>
-				<onright>Dialog.Close(623)</onright>
-				<onclick>Dialog.Close(623)</onclick>
+				<onleft>Dialog.Close(1101)</onleft>
+				<onright>Dialog.Close(1101)</onright>
+				<onclick>Dialog.Close(1101)</onclick>
 				<onclick>RunScript(script.cinema.experience,movieid=$INFO[skin.string(custom_id)])</onclick>
 				<label>31066</label>
 				<visible>System.HasAddon(script.cinema.experience)</visible>
