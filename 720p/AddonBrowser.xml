@@ -64,7 +64,7 @@
 							<scrollout>false</scrollout>
 						</control>
 						<control type="label">
-							<posx>960</posx>
+							<posx>700</posx> <!-- 960 -->
 							<posy>0</posy>
 							<width>290</width>
 							<height>40</height>
@@ -100,7 +100,7 @@
 							<visible>Control.HasFocus(55)</visible>
 						</control>
 						<control type="label">
-							<posx>960</posx>
+							<posx>700</posx>
 							<posy>0</posy>
 							<width>290</width>
 							<height>40</height>
@@ -127,7 +127,7 @@
 							<visible>!Control.HasFocus(55)</visible>
 						</control>
 						<control type="label">
-							<posx>960</posx>
+							<posx>700</posx>
 							<posy>0</posy>
 							<width>290</width>
 							<height>40</height>

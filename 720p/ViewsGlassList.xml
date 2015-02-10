@@ -711,6 +711,7 @@
 						<textcolor>FF101010</textcolor>
 					</control>
 					<control type="image">
+						<include>KeepAspect</include>
 						<posx>240</posx>
 						<posy>2</posy>
 						<width>80</width>
@@ -742,6 +743,7 @@
 						<animation effect="fade" start="100" end="90" time="0" condition="!Control.Hasfocus(57)">conditional</animation>
 					</control>
 					<control type="image">
+						<include>KeepAspect</include>
 						<posx>240</posx>
 						<posy>2</posy>
 						<width>80</width>
@@ -784,6 +786,7 @@
 						<textcolor>80FFFAF0</textcolor>
 					</control>
 					<control type="image">
+						<include>KeepAspect</include>
 						<posx>240</posx>
 						<posy>2</posy>
 						<width>80</width>
