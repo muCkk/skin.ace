@@ -1,16 +1,10 @@
-[B][COLOR=FFFF8C00]DATE 02/05/2015[/COLOR][/B]
-
-- Added possibility to leave vertical submenus by going right.
-- Fixed: Alignments in Right List view, RCB dialogs, other dialogs.
-- Rewrite of PVR windows.
-
-[B][COLOR=FFFF8C00]BUILD 6.0.3 - RELEASE DATE 01/20/2015[/COLOR][/B]
+[B][COLOR=FFFF8C00]BUILD 7.0.0 - RELEASE DATE 02/11/2015[/COLOR][/B]
 
 Port to Kodi v14 "Helix".
-- Fixed: On-screen keyboard.
-- Fixed: Vertical and horizontal home screen and other (sub-)menus are now displayed correctly.
-- Fixed: Watched marker for ViewType Wide.
-
+Rewrite of PVR windows.
+Fixed: Alignements (On-screen keyboard, main and submenus, views, dialogs, rom collection browser dialogs, lyrics window).
+Fixed: Window IDs from CustomHelp and CustomTrailer.
+Added possibility to leave vertical submenus by going right.
 
 
 [B][COLOR=FFFF8C00]BUILD 6.0.2 - RELEASE DATE 12/02/2013[/COLOR][/B]
