@@ -2,15 +2,13 @@
 	<fontset id="Default">
 		<font>
 			<name>Font_12</name>
-			<filename>aller_ace_CAPS.ttf</filename>
+			<filename>aller_ace.ttf</filename>
 			<size>12</size>
-			<style>uppercase</style>
 		</font>
 		<font>
 			<name>Font_15</name>
-			<filename>aller_ace_CAPS.ttf</filename>
+			<filename>aller_ace.ttf</filename>
 			<size>15</size>
-			<style>uppercase</style>
 		</font>
 		<font>
 			<name>Font_16</name>
@@ -26,16 +24,14 @@
 		</font>
 		<font>
 			<name>Font_18</name>
-			<filename>aller_ace_CAPS.ttf</filename>
+			<filename>aller_ace.ttf</filename>
 			<size>18</size>
-			<style>uppercase</style>
 		</font>
 		<font>
 			<name>Font13</name>
 			<!-- para addons -->
-			<filename>aller_ace_CAPS.ttf</filename>
+			<filename>aller_ace.ttf</filename>
 			<size>18</size>
-			<style>uppercase</style>
 		</font>
 		<font>
 			<name>Font_19</name>
@@ -45,9 +41,8 @@
 		</font>
 		<font>
 			<name>Font_20</name>
-			<filename>aller_ace_CAPS.ttf</filename>
+			<filename>aller_ace.ttf</filename>
 			<size>20</size>
-			<style>uppercase</style>
 		</font>
 		<font>
 			<name>Font_20A</name>
@@ -64,15 +59,13 @@
 		</font>
 		<font>
 			<name>Font_22</name>
-			<filename>aller_ace_CAPS.ttf</filename>
+			<filename>aller_ace.ttf</filename>
 			<size>22</size>
-			<style>uppercase</style>
 		</font>
 		<font>
 			<name>Font_23</name>
-			<filename>aller_ace_CAPS.ttf</filename>
+			<filename>aller_ace.ttf</filename>
 			<size>23</size>
-			<style>uppercase</style>
 		</font>
 		<font>
 			<name>Font_24</name>
@@ -94,9 +87,8 @@
 		</font>
 		<font>
 			<name>Font_32</name>
-			<filename>aller_ace_CAPS.ttf</filename>
+			<filename>aller_ace.ttf</filename>
 			<size>32</size>
-			<style>uppercase</style>
 		</font>
 		<font>
 			<name>Font_38</name>
@@ -106,9 +98,8 @@
 		</font>
 		<font>
 			<name>Font_40</name>
-			<filename>aller_ace_CAPS.ttf</filename>
+			<filename>aller_ace.ttf</filename>
 			<size>40</size>
-			<style>uppercase</style>
 		</font>
 		<font>
 			<name>Font_50</name>
@@ -122,9 +113,9 @@
 		</font>
 		<font>
 			<name>Font_100</name>
-			<filename>aller_ace_CAPS.ttf</filename>
+			<filename>aller_ace.ttf</filename>
 			<size>100</size>
-			<style>uppercase bold</style>
+			<style>bold</style>
 		</font>
 	</fontset>
 	<fontset id="Ubuntu">
